@@ -3,7 +3,7 @@
 # Lisence: MIT
 #=================================================
 
-name: Build_x86_64
+name: Build-LEDE_x86_64
 
 on: 
   release:
